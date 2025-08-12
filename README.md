@@ -1,7 +1,7 @@
 # recommendation-system
 A Two-Tower Recommendation Model
 
-the code is in recommendation.ipynb.
+the code is in `recommendation.ipynb`.
 
 ## Result
 + Number of customers predicted by the model as “will purchase”: 1,714
